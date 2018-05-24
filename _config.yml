@@ -4,7 +4,7 @@
 
 # Site
 title: 栩栩如生
-subtitle: 多的都是废话、 代码层面分高下
+subtitle: 专心致志敲代码、说得太多都是废话
 description: 
 author: Henry.Cai
 language: zh-Hans
@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/caitianxu/caitianxu.github.io.git
+  repo: https://caitianxu:henry124569@github.com/caitianxu/caitianxu.github.io.git
   branch: master
